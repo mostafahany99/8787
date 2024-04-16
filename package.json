@@ -37,7 +37,8 @@
     "opusscript": "^0.0.8",
     "simple-find-lyrics": "^0.0.1",
     "systeminformation": "^5.17.12",
-    "tweetnacl": "^1.0.3"
+    "tweetnacl": "^1.0.3",
+"node": "18.20.2"
   },
-"engines": { "node": "18.20.2" }
+
 } 
