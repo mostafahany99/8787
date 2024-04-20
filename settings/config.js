@@ -98,6 +98,6 @@ module.exports = {
   ],
   slash: {
     global: true,
-    guildID: process.env.GUILD_ID || "SERVER_ID", // for slash command
+    guildID: process.env.GUILD_ID || "", // for slash command
   },
 };
